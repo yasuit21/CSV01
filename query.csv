@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-07-22T06:12:44.810Z,55.0715,-158.596,28,7.8,mww,,60,0.621,0.97,us,us7000asvb,2020-10-03T17:32:40.040Z,"99 km SSE of Perryville, Alaska",earthquake,5.4,1.9,0.019,261,reviewed,us,us
+2020-07-17T02:50:22.178Z,-7.836,147.7704,73,7,mww,,18,1.671,1.1,us,us7000aq3e,2020-09-26T16:58:33.040Z,"114 km NNW of Popondetta, Papua New Guinea",earthquake,6.8,1.9,0.054,33,reviewed,us,us
+2020-06-23T15:29:04.350Z,15.8861,-96.0077,20,7.4,mww,,30,0.151,1.14,us,us6000ah9t,2020-09-30T21:36:58.807Z,"9 km SE of Santa María Xadani, Mexico",earthquake,2.1,1.8,0.035,79,reviewed,us,us
+2020-06-18T12:49:53.844Z,-33.2927,-177.8571,10,7.4,mww,,23,4.035,0.86,us,us6000ae4n,2020-08-30T00:00:45.040Z,"south of the Kermadec Islands",earthquake,7.9,1.7,0.041,56,reviewed,us,us
+2020-03-25T02:49:21.160Z,48.9638,157.6955,57.8,7.5,mww,,12,4.109,0.66,us,us70008fi4,2020-06-13T18:44:52.040Z,"221km SSE of Severo-Kuril'sk, Russia",earthquake,5.6,2.7,0.02,239,reviewed,us,us
+2020-02-13T10:33:44.406Z,45.6161,148.959,143,7,mww,,25,4.501,0.83,us,us70007pa9,2020-05-02T22:09:44.040Z,"94km ENE of Kuril'sk, Russia",earthquake,7.3,1.9,0.027,131,reviewed,us,us
+2020-01-28T19:10:24.918Z,19.4193,-78.756,14.86,7.7,mww,,26,1.657,0.75,us,us60007idc,2020-06-14T09:16:19.143Z,"123km NNW of Lucea, Jamaica",earthquake,6,2.9,0.022,199,reviewed,us,us
