@@ -1,0 +1,7 @@
+
+name: csv01
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
